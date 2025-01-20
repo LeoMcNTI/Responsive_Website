@@ -26,29 +26,27 @@
   
   @media only screen and (min-width: 600px) {
     /* For tablets: */
-    .col-s-1 {width: 9.09%;}
-    .col-s-2 {width: 18.18;}
-    .col-s-3 {width: 27.27%;}
-    .col-s-4 {width: 36.36%;}
-    .col-s-5 {width: 45.45%;}
-    .col-s-6 {width: 54.54%;}
-    .col-s-7 {width: 63.63%;}
-    .col-s-8 {width: 72.72%;}
-    .col-s-9 {width: 81.81%;}
-    .col-s-10 {width: 90.9%;}
-    .col-s-11 {width: 100%;}
+    .col-s-1 {width: 10%;}
+    .col-s-2 {width: 20%;}
+    .col-s-3 {width: 30%;}
+    .col-s-4 {width: 40%;}
+    .col-s-5 {width: 50%;}
+    .col-s-6 {width: 60%;}
+    .col-s-7 {width: 70%;}
+    .col-s-8 {width: 80%;}
+    .col-s-9 {width: 90%;}
+    .col-s-10 {width: 100%;}
   }
   @media only screen and (min-width: 800px) {
     /* For desktop: */
-    .col-s-1 {width: 9.09%;}
-    .col-s-2 {width: 18.18;}
-    .col-s-3 {width: 27.27%;}
-    .col-s-4 {width: 36.36%;}
-    .col-s-5 {width: 45.45%;}
-    .col-s-6 {width: 54.54%;}
-    .col-s-7 {width: 63.63%;}
-    .col-s-8 {width: 72.72%;}
-    .col-s-9 {width: 81.81%;}
-    .col-s-10 {width: 90.9%;}
-    .col-s-11 {width: 100%;}
+    .col-s-1 {width: 10%;}
+    .col-s-2 {width: 20%;}
+    .col-s-3 {width: 30%;}
+    .col-s-4 {width: 40%;}
+    .col-s-5 {width: 50%;}
+    .col-s-6 {width: 60%;}
+    .col-s-7 {width: 70%;}
+    .col-s-8 {width: 80%;}
+    .col-s-9 {width: 90%;}
+    .col-s-10 {width: 100%;}
   }
